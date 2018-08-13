@@ -4,12 +4,11 @@ React Native is an trending open-source project of Facebook. React Native aslos 
 We make a list of free React Native apps for React Native developers seeing others building and structuring their apps.
 
 ## Popular
-1. **Facebook**
-  * Share updates and photos, engage with friends and Pages, and stay connected to communities important to you.
+1. **Facebook** - Share updates and photos, engage with friends and Pages, and stay connected to communities important to you.
   * https://itunes.apple.com/app/facebook/id284882215
   * https://play.google.com/store/apps/details?id=com.facebook.katana
   * https://code.fb.com/
-  * 
+  * Screenshots:
 
 ## Freebies
 1.	Pushy Horizontal Menu Effect – React Native Free Animation	https://reactaz.com/downloads/pushy-horizontal-menu-effect-react-native-free-animation/
