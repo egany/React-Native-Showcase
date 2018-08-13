@@ -3,6 +3,14 @@ React Native is an trending open-source project of Facebook. React Native aslos 
 
 We make a list of free React Native apps for React Native developers seeing others building and structuring their apps.
 
+## Popular
+1. Facebook - Share updates and photos, engage with friends and Pages, and stay connected to communities important to you.
+  * https://itunes.apple.com/app/facebook/id284882215
+  * https://play.google.com/store/apps/details?id=com.facebook.katana
+  * https://code.fb.com/
+  * 
+
+## Freebies
 1.	Pushy Horizontal Menu Effect – React Native Free Animation	https://reactaz.com/downloads/pushy-horizontal-menu-effect-react-native-free-animation/
 2.	Material Listing eCommerce – React Native Free Theme	https://reactaz.com/downloads/material-listing-ecommerce-react-native-free-theme/
 3.	Material Collection eCommerce – React Native Free Theme	https://reactaz.com/downloads/material-collection-ecommerce-react-native-free-theme/
@@ -17,3 +25,9 @@ We make a list of free React Native apps for React Native developers seeing othe
 12.	React Native Template Project	https://github.com/Yalantis/ReactNativeTemplate
 13.	re-start	https://github.com/react-everywhere/re-start
 14.	Master-Detail Template for React Native apps	https://github.com/hramos/react-native-template-master-detail
+
+# Case Studies 
+
+1. gikApp - React Native Mobile App For Wordpress
+2. TechStore - React Native eCommerce Mobile App for Shopify Tech Store
+3. Fashion Store - Elegant React Native app template for Shopify Clothing Store
