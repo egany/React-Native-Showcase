@@ -5,10 +5,17 @@ We make a list of free React Native apps for React Native developers seeing othe
 
 ## Popular
 1. **Facebook** - Share updates and photos, engage with friends and Pages, and stay connected to communities important to you.
-  * https://itunes.apple.com/app/facebook/id284882215
-  * https://play.google.com/store/apps/details?id=com.facebook.katana
-  * https://code.fb.com/
+  * iOS: https://itunes.apple.com/app/facebook/id284882215
+  * Android: https://play.google.com/store/apps/details?id=com.facebook.katana
+  * ref: https://code.fb.com/
   * Screenshots:
+  
+2. **Pinterest** - Food, fashion & travel ideas
+ * iOS: https://itunes.apple.com/us/app/pinterest/id429047995?mt=8
+ * Android: https://play.google.com/store/apps/details?id=com.pinterest
+ * ref: https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6
+
+3. 
 
 ## Freebies
 1.	Pushy Horizontal Menu Effect – React Native Free Animation	https://reactaz.com/downloads/pushy-horizontal-menu-effect-react-native-free-animation/
