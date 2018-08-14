@@ -200,12 +200,52 @@ We make a list of free React Native apps for React Native developers seeing othe
 * [Download here](https://reactaz.com/downloads/tumblr-ui-react-native-full-theme/)
 15. **eBay UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from eBay.
 * [Download here](https://reactaz.com/downloads/ebay-ui-react-native-full-theme/)
-16. **Hide the Notch** - Meet the best companion for your iPhone X to remove the notch!
+16. **[Hide the Notch](https://github.com/MoOx/HideTheNotch)** - Meet the best companion for your iPhone X to remove the notch!
 * [iOS](https://goo.gl/xbuwAm)
-* ref: [gitHub](https://github.com/MoOx/HideTheNotch)
-17. **RSG Chess** - RSG Chess is a open source chess game made by Radi Cho.
-18. **Pocat** - Pocat allows you to manage you and your friends' friendly poker games, with easy to use interface and integration with both Facebook and Venmo
-19. **Cryptobullography** - Cryptocurrency converter, manager and tracker.
+17. **[RSG Chess](https://github.com/RSG-Group/RSG-Chess-mobile)** - RSG Chess is a open source chess game made by Radi Cho.
+* [Android
+](https://play.google.com/store/apps/details?id=com.rsg.chess)
+18. **[Pocat](https://github.com/rotembcohen/pokerBuddyApp)** - Pocat allows you to manage you and your friends' friendly poker games, with easy to use interface and integration with both Facebook and Venmo
+* [iOS](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
+19. **[Cryptobullography](https://github.com/WebStew/bullet)** - Cryptocurrency converter, manager and tracker.
+* [Android](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
+20. **[Equation Solver](https://github.com/ebouJ/Equation-Solver)** - Equation solver is a math solver that solves polynomials in degree one, two and three.
+* [iOS](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
+21. [Gas/Oil mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile) - Calculate the Gas/Oil mixture ratio. Quickly, easily and without ads.
+* [Android](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
+22. [Chain React Conf](https://github.com/infinitered/ChainReactApp) - Chain React Conf 2017 is a React Native Conference held in Portland, OR on July 10th and 11th.
+* [iOS](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
+23. [Hacker Buzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative) - Read your favorite Hacker News (https://news.ycombinator.com/) stories in this dark themed app.
+* [iOS](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.hackerbuzz)
+24. [Joplin](https://github.com/laurent22/joplin) - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
+* [iOS](https://itunes.apple.com/us/app/joplin/id1315599797?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+25. [Canvas Teacher](https://github.com/instructure/instructure-ios/tree/master/rn/Teacher) - Time is a teacher’s most valuable resource. Save time and use Canvas more efficiently from your mobile device with Canvas Teacher.
+* [iOS](https://itunes.apple.com/us/app/canvas-teacher/id1257834464?mt=8)
+26. [Pride in London](https://github.com/redbadger/pride-london-app) - ‘Pride in London’ is about coming together to celebrate the diversity of LGBT+ people in this city.
+* [iOS](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
+* [Android](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
+27. [Mattermost](https://github.com/mattermost/mattermost-mobile) - Mattermost is secure workplace messaging from behind your firewall.
+* [iOS](https://itunes.apple.com/us/app/mattermost/id1257222717?mt=8)
+* [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn)
+28. [Zulip](https://github.com/zulip/zulip-mobile) - The official mobile client for Zulip - powerful open source team chat.
+* [iOS](https://itunes.apple.com/us/app/zulip/id1203036395)
+* [Android](https://play.google.com/store/apps/details?id=com.zulipmobile)
+29. [PocketGear](https://github.com/satya164/PocketGear) - PocketGear is a clean and simple Pokédex app for Pokémon GO.
+* [Android](https://play.google.com/store/apps/details?id=com.wibblystuff.gear)
+30. [F1 Stats](https://github.com/srdjanprpa/FormulaOne) - React Native app F1 Stats, statistics for drivers, teams and calendar for F1
+31. [Duckduckgo](https://github.com/kiok46/duckduckgo) - Unofficial DuckDuckGo app built in React Native
+32. [Swipehunt](https://github.com/notifme/swipehunt) - SwipeHunt is a minimalistic application to discover product on product hunt in a tinder-like funny way.
+33. [Feline for Product Hunt/](https://github.com/arjunkomath/Feline-for-Product-Hunt/) - Feline is a beautiful Android client for Product Hunt. I hope all product hunters out there will love this app. Cheers!
+* [Android](https://play.google.com/store/apps/details?id=com.arjunkomath.product_hunt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1)
+34. [React NBA App](https://github.com/wwayne/react-native-nba-app) - Cool NBA App written in RN
+35. [HackerNews](https://github.com/iSimar/HackerNews-React-Native) - This app is a Hacker News reader for iOS and it uses the HN's official API.
+36. [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) - iOS's Stocks App clone written in React Native for demo purpose. Data is pulled from Yahoo Finance.
+* [Android](https://play.google.com/store/apps/details?id=com.kfpun.finance)
+37. [Movieapp](https://github.com/JuneDomingo/movieapp) - Discover Movies and TV shows
 # Case Studies 
 
 1. **gikApp** - React Native Mobile App For Wordpress
