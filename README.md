@@ -16,11 +16,13 @@ We make a list of free React Native apps for React Native developers seeing othe
   * Android: [Download here](https://play.google.com/store/apps/details?id=com.pinterest)
  * ref: [Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
  * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/j4AVJ-buH8HoaJoWgJteGeV_VU1a8u6i-oP5Oyveww1NfU9DFOJv40wGEMqvrwRAR3Qdg_6ZJIYD "Pinterest")
 3. **Discord** - Discord is the only cross-platform voice and text chat app designed specifically for gamers.
  * iOS: [Download here](https://itunes.apple.com/us/app/pinterest/id429047995?mt=8)
  * ref: [https://blog.discordapp.com](https://blog.discordapp.com)
  * Screenshot:
+
  ![
 ](https://lh3.googleusercontent.com/s_SONZaIYwAQi0BkcDcUGtQqN9dCsI1tLq9RdxPMD6C8N3eypOQqqnXlbTt-X3PI4beAff52z2Zo "Discord")
 4. **Skype** - Staying in touch has never been easier. Use Skype on any device to message, video chat, call, or share with the people and groups you care about most.
@@ -28,6 +30,7 @@ We make a list of free React Native apps for React Native developers seeing othe
  * Android: [Download here](https://play.google.com/store/apps/details?id=com.skype.raider)
  * ref: [Skype](https://www.skype.com/en/)
  * Screenshot:
+
 ![
 ](https://lh3.googleusercontent.com/egn11-2uaij4C-_bpkzXd71sX2qLHprrvfx2HbarkyazUajMTuagzCxjhl7P_MwkMC5xzK0uec14 "Skype")
 5. **Instagram** - Instagram is a simple way to capture and share the world’s moments.
@@ -35,6 +38,7 @@ We make a list of free React Native apps for React Native developers seeing othe
  * Android: [Download here](https://play.google.com/store/apps/details?id=com.instagram.android&referrer=utm_source=instagramweb&utm_campaign=unifiedHome&utm_medium=badge)
  * ref: [Instagram](https://instagram-engineering.com/)
  * Screenshot:
+
 ![
 ](https://lh3.googleusercontent.com/KSD7Ys2cFQcsa53zNK2i_c-EXJr_ROCmNOwxRMPIevoRtdVAvSPzxwgRxKfqvRHX_ziZtkH3sw0C "Instagram")
 6. **Bloomberg** - Instagram is a simple way to capture and share the world’s moments.
@@ -42,12 +46,14 @@ We make a list of free React Native apps for React Native developers seeing othe
  * Android: [Download here]([https://play.google.com/store/apps/details?id=com.bloomberg.android.plus](https://play.google.com/store/apps/details?id=com.bloomberg.android.plus))
  * ref: [Bloomberg](https://www.techatbloomberg.com/)
  * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/ezbH96jkb6xjx4eFeHIhwVVuEE-FdAAwZv7H0AWhKvIkM9m_dUol9KaLK_NLDkDtCl7XggVoiD3h "Bloomberg")
 7. **GLITCH - football boots** - THE FUTURE OF FOOTBALL The only place to buy adidas GLITCH is the app. We’ve redesigned for the modern game with these custom football boots Featuring two interchangeable units, you can express your own style whenever you want.
  * iOS: [Download here](https://goo.gl/wGtzHa)
  * Android: [Download here](https://goo.gl/bMuwbt)
  * ref: [adidas GLITCH](https://medium.com/possible-cee/how-we-have-been-breaking-patterns-with-the-adidas-glitch-d734340fd40e)
  * Screenshot:
+
  ![
 ](https://lh3.googleusercontent.com/LEZf9NvhuRkM4o8flweNNu0_Kr4tKOO-Up39mtM-1Tz5fTePTkl9-pQl5xX2V9rybRJ1PU_M3IL0 "GLITCH")
 8. **Gyroscope** - Gyroscope integrates with Google Fit, Apple Health and many other data sources to show you the complete story of your life!
@@ -55,11 +61,14 @@ We make a list of free React Native apps for React Native developers seeing othe
  * Android: [Download here](https://goo.gl/ZrJakt)
  * ref: [Gyroscope](https://blog.gyrosco.pe/)
  * Screenshot:
+
+![enter image description here](https://lh3.googleusercontent.com/6e6yfghcOTsh9RXxQ5xuoBpCLGQUnlBIxXQ-KnFUsA12jsPyX2C7BLo4mOfOwBJr7MU1Lx8d7y3H)
 9. **Tesla** - The Tesla app puts owners in direct communication with their vehicles and Powerwalls anytime, anywhere.
 * iOS: [Download here](https://itunes.apple.com/us/app/tesla-motors/id582007913?mt=8)
 * Android: [Download here](https://play.google.com/store/apps/details?id=com.teslamotors.tesla)
 * ref: [Tesla](https://www.tesla.com/)
 * Screenshot: 
+
 ![
 ](https://lh3.googleusercontent.com/npCHKubuvpOYtL7LCytLGsj8S3wWld08rKrCCwU5eQ2_bFQEZnyLivtxhSMZLPIF5vRSV7e31sTm "Tesla")
 10. **Facebook F8** - Stay up to date on all the latest announcements, watch keynote and session videos, create your personalized schedule, browse venue maps and more.
@@ -67,12 +76,14 @@ We make a list of free React Native apps for React Native developers seeing othe
 * Android: [Download here](https://play.google.com/store/apps/details?id=com.facebook.f8)
 * ref: [Facebook F8](https://www.fbf8.com/)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/YcI6Or80QsSsSHBkOL4ias75tXMp6EIg9Ywy80jhPgbPZZVyVqhDyAiJxzC57gnuV2SzVuj7XcAv "F8")
 11. **Facebook Ads Manager** - The Facebook Ads Manager app allows businesses to stay connected with their ad performance no matter where they are.
 * iOS: [Download here](https://itunes.apple.com/us/app/facebook-ads-manager/id964397083?mt=8)
 * Android: [Download here](https://play.google.com/store/apps/details?id=com.facebook.adsmanager)
 * ref: [Facebook](https://code.fb.com/)
 * Screenshot:
+
 ![
 ](https://lh3.googleusercontent.com/fpO3gtpXsfSLZGMUMyU6e8vHnp5b_wlNzve8-2ywtUYN31rzx83_aAE6aP8zFXnpga9MOhcya-mS "FB Ads")
 12. **Facebook Analytics** - The Facebook Analytics app enables you and your team to stay on top of your growth, engagement, and monetization efforts on the go.
@@ -80,49 +91,58 @@ We make a list of free React Native apps for React Native developers seeing othe
 * Android: [Download here](https://play.google.com/store/apps/details?id=com.facebook.analytics)
 * ref: [Facebook](https://code.fb.com/)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/Y8V4kL6Ofm82VsMOQYZZI6ocvcbBbcA9j6SMQjGHxHgsf_AMOk8hUlw5Box4E451UgZi7j0XCXlS "Fb Analize")
 13. **Artsy** - Artsy is the best way to collect and discover art.
 * iOS: [Download here](https://goo.gl/Xu8UWD)
 * ref: [Artsy](https://artsy.github.io/)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/XrmuTOzrthmiW-215e0MMAm-TNWH8TwbjcsxlGwc93PJrfoDyKUs9rYG8fR53gtn37XZkAs_kssv "Artsy")
 14. **SoundCloud Pulse** - SoundCloud Pulse lets you manage your account, check your stats and reply to comments, whether you're in the studio, on the tour bus, or just away from your desktop.
 * iOS: [Download here](https://goo.gl/2abPVd)
 * ref: [SoundCloud](https://developers.soundcloud.com)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/ZltO_VoWm4nrzRlOsaiT-uypjkQnCb91953-Fmy80RGUm6LHD69N1QIKXS61dG9lO6iwNH2SL5nK "SoundCloud")
 15. **Delivery.com** - Order online from the best restaurants, liquor stores, grocers, and laundry service providers in your area.
 * iOS: [Download here](https://itunes.apple.com/us/app/delivery.com-food-alcohol/id435168129?mt=8)
 * Android: [Download here](https://play.google.com/store/apps/details?id=com.deliverycom)
 * ref: [Delivery.com](https://medium.com/delivery-com-engineering)
 * Screenshot:
+
 ![
 ](https://lh3.googleusercontent.com/bv-cm-hElgYvVTZm2Rdr-v3qOGUz1A2_s6KG1TtwValXg0peAkwnQ1CZPNKa2pMvXOdlLhOaAGbm)
 16. **Townske** - Find the best local cafes, restaurants, shops and places in almost any major city around the world through stunning photography.
 * iOS: [Download here](https://goo.gl/1JPmh1)
 * ref: [Townske](https://townske.com/)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/DS9BjR9S3-zbG8aHYB1pqemFcB8ct_1cW8ZjFw0CgIRgrL9PKXRWcf6wsb_MPPxcJymK9wb4il0p)
 17. **Vogue** - The Only Fashion App You Will Ever Need
 * iOS: [Download here](https://goo.gl/j7qYbo)
 * ref: [Vogue](https://www.vogue.com/)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/m_X8wYQxVNqM_-AeqpvcUENocfetWdYupfdrp698qek9ueG_lXJnD6CNjFvFQ77xttUxMguAbd5X)
 18.  **Wix.com** - Now you can easily manage your business on the go with the Wix App
 * iOS: [Download here](https://itunes.apple.com/us/app/wix-com/id1099748482?mt=8)
 * Android: [Download here](https://play.google.com/store/apps/details?id=com.wix.android)
 * ref: [Wix](https://www.wix.com/)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/m_elTkG0MDdqKv4zSliK6UAxeUrbBXLSZeOMPwU4cxcinturtlKquLSoLe0GQnLoZSD40fYG6FtE)
 19. **Walmart** - Make shopping easier.
 * iOS: [Download here](https://itunes.apple.com/us/app/walmart-app-shopping-savings/id338137227?mt=8)
 * Android: [Download here](https://goo.gl/hQHnvr)
 * ref: [Walmart](https://medium.com/walmartlabs)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/CkNp3Ulrw0BSV18OfJbG4PqbKa0z4y-YutBRs7enD3x2ZybJ5pbecSkuta9tnoPZ-oVDKVgAJqjN)
 20. **Chop** - Enjoy the food you love, at stellar speeds. With quick pickup and better service, Chop lets you get great food, fast.
 * iOS: [Download here](https://goo.gl/FbFuAX)
 * Screenshot:
+
 ![enter image description here](https://lh3.googleusercontent.com/LzvWs3xbVablKaPmOq8mM-Ya8jKj-Jn6IsvWH8Jw5aDXguSPSUJMM731rEVtRRE-eVrEVYF_SBYJ)
 ## Freebies
 1.	**Pushy Horizontal Menu Effect – React Native Free Animation**	- It helps you create the pushy horizontal menu quickly and professionally. It’s easy to customize and develop.
