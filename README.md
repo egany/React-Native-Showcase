@@ -251,9 +251,10 @@ We make a list of free React Native apps for React Native developers seeing othe
 
 1. **gikApp** - React Native Mobile App For Wordpress
 * [Download here](https://codecanyon.net/item/gikapp-react-native-full-application/19465924)
-2. TechStore - React Native eCommerce Mobile App for Shopify Tech Store
+2. **TechStore - React Native eCommerce Mobile App for Shopify Tech Store**
 * [Download here](https://codecanyon.net/item/techstore-react-native-ecommerce-mobile-app-for-shopify/20324216)
-3. Fashion Store - Elegant React Native app template for Shopify Clothing Store
+3. **Fashion Store - Elegant React Native app template for Shopify Clothing Store**
+* [Download here](https://codecanyon.net/item/fashion-store-elegant-react-native-app-template-for-shopify-clothing-store/22441071)
 4. **Animation Kit – React Native Full Theme** - Let’s get it done with hand-crafted Animation React Native themes.
 * [Download here](https://reactaz.com/downloads/animation-kit-react-native-full-theme/)
 5. **AirBnb UI – React Native Full Theme** - Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.
