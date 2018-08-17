@@ -165,111 +165,112 @@ We make a list of free React Native apps for React Native developers seeing othe
 
 ![enter image description here](https://lh3.googleusercontent.com/LzvWs3xbVablKaPmOq8mM-Ya8jKj-Jn6IsvWH8Jw5aDXguSPSUJMM731rEVtRRE-eVrEVYF_SBYJ)
 ## Freebies
-1. 
-1.	**Pushy Horizontal Menu Effect – React Native Free Animation**	- It helps you create the pushy horizontal menu quickly and professionally. It’s easy to customize and develop.
+
+1. **[RunX - Running Tracker](https://github.com/devnowcafe/runx)** - Running location tracking app
+* [iOS](https://itunes.apple.com/app/id1422478253)
+2.	**Pushy Horizontal Menu Effect – React Native Free Animation**	- It helps you create the pushy horizontal menu quickly and professionally. It’s easy to customize and develop.
 * [Download here](https://reactaz.com/downloads/pushy-horizontal-menu-effect-react-native-free-animation/)
-2. **Material Listing eCommerce – React Native Free Theme** - Easy to setup basic the listing screens. All components are easy to customize and reuse with example screen on the source
+3. **Material Listing eCommerce – React Native Free Theme** - Easy to setup basic the listing screens. All components are easy to customize and reuse with example screen on the source
 * [Download here](https://reactaz.com/downloads/material-listing-ecommerce-react-native-free-theme/)
-3. **Material Collection eCommerce – React Native Free Theme** - Easy to setup basic the collection screens. All components are easy to customize and reuse with example screen on the source.
+4. **Material Collection eCommerce – React Native Free Theme** - Easy to setup basic the collection screens. All components are easy to customize and reuse with example screen on the source.
 * [Download here](https://reactaz.com/downloads/material-collection-ecommerce-react-native-free-theme/)
-4.	**Pushy Vertical Menu Effect – React Native Free Animation** - It helps you create the pushy vertical menu quickly and professionally. It’s easy to customize and develop.
+5.	**Pushy Vertical Menu Effect – React Native Free Animation** - It helps you create the pushy vertical menu quickly and professionally. It’s easy to customize and develop.
 * [Download here](https://reactaz.com/downloads/pushy-vertical-menu-effect-react-native-free-animation/)
-5.	**Vertical Menu Effect – React Native Free Animation** - It helps you create the pushy vertical menu quickly and professionally. It’s easy to customize and develop.
+6.	**Vertical Menu Effect – React Native Free Animation** - It helps you create the pushy vertical menu quickly and professionally. It’s easy to customize and develop.
 * [Download here](https://reactaz.com/downloads/vertical-menu-effect-react-native-free-animation/)
-6.	 **Sephora UI – React Native Full Theme** - Let’s create an app like Sephorato enable your customers to buy products, order services, receive benefits, contact you directly and much more
+7.	 **Sephora UI – React Native Full Theme** - Let’s create an app like Sephorato enable your customers to buy products, order services, receive benefits, contact you directly and much more
 * [Download here](https://reactaz.com/downloads/sephora-ui-react-native-full-theme/)
-7.	 **Material Design eCommerce – React Native Full Theme** - Best material for ecommerce theme by react native. Easy to setup basic the collection / listing screen.
+8.	 **Material Design eCommerce – React Native Full Theme** - Best material for ecommerce theme by react native. Easy to setup basic the collection / listing screen.
 * [Download here](https://reactaz.com/downloads/material-design-ecommerce-react-native-full-theme/)
-8.	 **ASOS UI – React Native Full Theme** - Let’s create an app like ASOSto enable your customers to buy products, order services, receive benefits, contact you directly and much more.
+9.	 **ASOS UI – React Native Full Theme** - Let’s create an app like ASOSto enable your customers to buy products, order services, receive benefits, contact you directly and much more.
 * [Download here](https://reactaz.com/downloads/asos-ui-react-native-full-theme/)
-9. **Zara UI – React Native Full Theme** - Let’s create an app like Zara to enable your customers to buy products, order services, receive benefits, contact you directly and much more.
+10. **Zara UI – React Native Full Theme** - Let’s create an app like Zara to enable your customers to buy products, order services, receive benefits, contact you directly and much more.
 * [Download here](https://reactaz.com/downloads/zara-ui-react-native-full-theme/)
-10. **eFashion UI – React Native Full Theme** - Let’s create an app like Zara to enable your customers to buy products, order services, receive benefits, contact you directly and much more.
+11. **eFashion UI – React Native Full Theme** - Let’s create an app like Zara to enable your customers to buy products, order services, receive benefits, contact you directly and much more.
 * [Download here](https://reactaz.com/downloads/efashion-ui-react-native-full-theme/)
-11. **Flipkart UI – React Native Full Theme** - Let’s create an app like Flipkart to enable your customers to buy products, order services, receive benefits, contact you directly and much more
+12. **Flipkart UI – React Native Full Theme** - Let’s create an app like Flipkart to enable your customers to buy products, order services, receive benefits, contact you directly and much more
 * [Download here](https://reactaz.com/downloads/flipkart-ui-react-native-full-theme/)
 * ref: [ReactAZ
 ](reactaz.com)
-12. **WhatsApp UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from WhatsApp.
+13. **WhatsApp UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from WhatsApp.
 * [Download here](https://reactaz.com/downloads/whatsapp-ui-react-native-full-theme/)
 * ref: [ReactAZ
 ](reactaz.com)
-13. **Tinder UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Tinder.
+14. **Tinder UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Tinder.
 * [Download here](https://reactaz.com/downloads/tinder-ui-react-native-full-theme/)
 * ref: [ReactAZ
 ](reactaz.com)
-14. **Tumblr UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Tumblr.
+15. **Tumblr UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Tumblr.
 * [Download here](https://reactaz.com/downloads/tumblr-ui-react-native-full-theme/)
-15. **eBay UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from eBay.
+16. **eBay UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from eBay.
 * [Download here](https://reactaz.com/downloads/ebay-ui-react-native-full-theme/)
-16. **[Hide the Notch](https://github.com/MoOx/HideTheNotch)** - Meet the best companion for your iPhone X to remove the notch!
+17. **[Hide the Notch](https://github.com/MoOx/HideTheNotch)** - Meet the best companion for your iPhone X to remove the notch!
 * [iOS](https://goo.gl/xbuwAm)
-17. **[RSG Chess](https://github.com/RSG-Group/RSG-Chess-mobile)** - RSG Chess is a open source chess game made by Radi Cho.
+18. **[RSG Chess](https://github.com/RSG-Group/RSG-Chess-mobile)** - RSG Chess is a open source chess game made by Radi Cho.
 * [Android
 ](https://play.google.com/store/apps/details?id=com.rsg.chess)
-18. **[Pocat](https://github.com/rotembcohen/pokerBuddyApp)** - Pocat allows you to manage you and your friends' friendly poker games, with easy to use interface and integration with both Facebook and Venmo
+19. **[Pocat](https://github.com/rotembcohen/pokerBuddyApp)** - Pocat allows you to manage you and your friends' friendly poker games, with easy to use interface and integration with both Facebook and Venmo
 * [iOS](https://itunes.apple.com/us/app/pocat/id1277176782?ls=1&mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.hecodesthings.pocat)
-19. **[Cryptobullography](https://github.com/WebStew/bullet)** - Cryptocurrency converter, manager and tracker.
+20. **[Cryptobullography](https://github.com/WebStew/bullet)** - Cryptocurrency converter, manager and tracker.
 * [Android](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
-20. **[Equation Solver](https://github.com/ebouJ/Equation-Solver)** - Equation solver is a math solver that solves polynomials in degree one, two and three.
+21. **[Equation Solver](https://github.com/ebouJ/Equation-Solver)** - Equation solver is a math solver that solves polynomials in degree one, two and three.
 * [iOS](https://itunes.apple.com/us/app/equation-solver/id1420956198?mt=8)
-21. **[Gas/Oil mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile)** - Calculate the Gas/Oil mixture ratio. Quickly, easily and without ads.
+22. **[Gas/Oil mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile)** - Calculate the Gas/Oil mixture ratio. Quickly, easily and without ads.
 * [Android](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
-22. **[Chain React Conf](https://github.com/infinitered/ChainReactApp)** - Chain React Conf 2017 is a React Native Conference held in Portland, OR on July 10th and 11th.
+23. **[Chain React Conf](https://github.com/infinitered/ChainReactApp)** - Chain React Conf 2017 is a React Native Conference held in Portland, OR on July 10th and 11th.
 * [iOS](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
-23. **[Hacker Buzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative)** - Read your favorite Hacker News (https://news.ycombinator.com/) stories in this dark themed app.
+24. **[Hacker Buzz](https://github.com/RCiesielczuk/HackerBuzz-ReactNative)** - Read your favorite Hacker News (https://news.ycombinator.com/) stories in this dark themed app.
 * [iOS](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.hackerbuzz)
-24. **[Joplin](https://github.com/laurent22/joplin)** - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
+25. **[Joplin](https://github.com/laurent22/joplin)** - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
 * [iOS](https://itunes.apple.com/us/app/joplin/id1315599797?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=net.cozic.joplin)
-25. **[Canvas Teacher](https://github.com/instructure/instructure-ios/tree/master/rn/Teacher)** - Time is a teacher’s most valuable resource. Save time and use Canvas more efficiently from your mobile device with Canvas Teacher.
+26. **[Canvas Teacher](https://github.com/instructure/instructure-ios/tree/master/rn/Teacher)** - Time is a teacher’s most valuable resource. Save time and use Canvas more efficiently from your mobile device with Canvas Teacher.
 * [iOS](https://itunes.apple.com/us/app/canvas-teacher/id1257834464?mt=8)
-26. **[Pride in London](https://github.com/redbadger/pride-london-app)** - ‘Pride in London’ is about coming together to celebrate the diversity of LGBT+ people in this city.
+27. **[Pride in London](https://github.com/redbadger/pride-london-app)** - ‘Pride in London’ is about coming together to celebrate the diversity of LGBT+ people in this city.
 * [iOS](https://itunes.apple.com/gb/app/pride-in-london/id1250496471)
 * [Android](https://play.google.com/store/apps/details?id=org.prideinlondon.festival)
-27. **[Mattermost](https://github.com/mattermost/mattermost-mobile)** - Mattermost is secure workplace messaging from behind your firewall.
+28. **[Mattermost](https://github.com/mattermost/mattermost-mobile)** - Mattermost is secure workplace messaging from behind your firewall.
 * [iOS](https://itunes.apple.com/us/app/mattermost/id1257222717?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn)
-28. **[Zulip](https://github.com/zulip/zulip-mobile)** - The official mobile client for Zulip - powerful open source team chat.
+29. **[Zulip](https://github.com/zulip/zulip-mobile)** - The official mobile client for Zulip - powerful open source team chat.
 * [iOS](https://itunes.apple.com/us/app/zulip/id1203036395)
 * [Android](https://play.google.com/store/apps/details?id=com.zulipmobile)
-29. **[PocketGear](https://github.com/satya164/PocketGear)** - PocketGear is a clean and simple Pokédex app for Pokémon GO.
+30. **[PocketGear](https://github.com/satya164/PocketGear)** - PocketGear is a clean and simple Pokédex app for Pokémon GO.
 * [Android](https://play.google.com/store/apps/details?id=com.wibblystuff.gear)
-30. **[F1 Stats](https://github.com/srdjanprpa/FormulaOne)** - React Native app F1 Stats, statistics for drivers, teams and calendar for F1
-31. **[Duckduckgo](https://github.com/kiok46/duckduckgo)** - Unofficial DuckDuckGo app built in React Native
-32. **[Swipehunt](https://github.com/notifme/swipehunt)** - SwipeHunt is a minimalistic application to discover product on product hunt in a tinder-like funny way.
-33. **[Feline for Product Hunt/](https://github.com/arjunkomath/Feline-for-Product-Hunt/)** - Feline is a beautiful Android client for Product Hunt. I hope all product hunters out there will love this app. Cheers!
+31. **[F1 Stats](https://github.com/srdjanprpa/FormulaOne)** - React Native app F1 Stats, statistics for drivers, teams and calendar for F1
+32. **[Duckduckgo](https://github.com/kiok46/duckduckgo)** - Unofficial DuckDuckGo app built in React Native
+33. **[Swipehunt](https://github.com/notifme/swipehunt)** - SwipeHunt is a minimalistic application to discover product on product hunt in a tinder-like funny way.
+34. **[Feline for Product Hunt/](https://github.com/arjunkomath/Feline-for-Product-Hunt/)** - Feline is a beautiful Android client for Product Hunt. I hope all product hunters out there will love this app. Cheers!
 * [Android](https://play.google.com/store/apps/details?id=com.arjunkomath.product_hunt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1)
-34. **[React NBA App](https://github.com/wwayne/react-native-nba-app)** - Cool NBA App written in RN
-35. **[HackerNews](https://github.com/iSimar/HackerNews-React-Native)** - This app is a Hacker News reader for iOS and it uses the HN's official API.
-36. **[FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)** - iOS's Stocks App clone written in React Native for demo purpose. Data is pulled from Yahoo Finance.
+35. **[React NBA App](https://github.com/wwayne/react-native-nba-app)** - Cool NBA App written in RN
+36. **[HackerNews](https://github.com/iSimar/HackerNews-React-Native)** - This app is a Hacker News reader for iOS and it uses the HN's official API.
+37. **[FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)** - iOS's Stocks App clone written in React Native for demo purpose. Data is pulled from Yahoo Finance.
 * [Android](https://play.google.com/store/apps/details?id=com.kfpun.finance)
-37. **[Movieapp](https://github.com/JuneDomingo/movieapp)** - Discover Movies and TV shows
+38. **[Movieapp](https://github.com/JuneDomingo/movieapp)** - Discover Movies and TV shows
 # Case Studies 
-1. **[RunX - Running Tracker](https://github.com/devnowcafe/runx)** - Running location tracking app
-* [iOS](https://itunes.apple.com/app/id1422478253)
-2. **gikApp** - React Native Mobile App For Wordpress
+
+1. **gikApp** - React Native Mobile App For Wordpress
 * [Download here](https://codecanyon.net/item/gikapp-react-native-full-application/19465924)
-3. **TechStore - React Native eCommerce Mobile App for Shopify Tech Store**
+2. **TechStore - React Native eCommerce Mobile App for Shopify Tech Store**
 * [Download here](https://codecanyon.net/item/techstore-react-native-ecommerce-mobile-app-for-shopify/20324216)
-4. **Fashion Store - Elegant React Native app template for Shopify Clothing Store**
+3. **Fashion Store - Elegant React Native app template for Shopify Clothing Store**
 * [Download here](https://codecanyon.net/item/fashion-store-elegant-react-native-app-template-for-shopify-clothing-store/22441071)
-5. **Animation Kit – React Native Full Theme** - Let’s get it done with hand-crafted Animation React Native themes.
+4. **Animation Kit – React Native Full Theme** - Let’s get it done with hand-crafted Animation React Native themes.
 * [Download here](https://reactaz.com/downloads/animation-kit-react-native-full-theme/)
-6. **AirBnb UI – React Native Full Theme** - Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.
+5. **AirBnb UI – React Native Full Theme** - Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.
 * [Download here](https://reactaz.com/downloads/airbnb-ui-react-native-full-theme/)
-7. **Medium UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Medium.
+6. **Medium UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Medium.
 * [Download here](https://reactaz.com/downloads/medium-ui-react-native-full-theme/)
-8. **Zomato UI – React Native Full Theme** - Let’s create an app like Zomato to enable your customers to order services, receive benefits, contact you directly and much more.
+7. **Zomato UI – React Native Full Theme** - Let’s create an app like Zomato to enable your customers to order services, receive benefits, contact you directly and much more.
 * [Download here](https://reactaz.com/downloads/zomato-ui-react-native-full-theme/)
-9. **CNN UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from CNN.
+8. **CNN UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from CNN.
 * [Download here](https://reactaz.com/downloads/cnn-ui-react-native-full-theme/)
-10. **BBC UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from BBC.
+9. **BBC UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from BBC.
 * [Download here](https://reactaz.com/downloads/bbc-ui-react-native-full-theme/)
-11. **Pinterest UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Pinterest.
+10. **Pinterest UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Pinterest.
 * [Download here](https://reactaz.com/downloads/pinterest-ui-react-native-full-theme/)
-12.	**Quora UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Quora.
+11.	**Quora UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Quora.
 * [Download here](https://reactaz.com/downloads/quora-ui-react-native-full-theme/)
