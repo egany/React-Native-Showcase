@@ -165,6 +165,7 @@ We make a list of free React Native apps for React Native developers seeing othe
 
 ![enter image description here](https://lh3.googleusercontent.com/LzvWs3xbVablKaPmOq8mM-Ya8jKj-Jn6IsvWH8Jw5aDXguSPSUJMM731rEVtRRE-eVrEVYF_SBYJ)
 ## Freebies
+1. 
 1.	**Pushy Horizontal Menu Effect – React Native Free Animation**	- It helps you create the pushy horizontal menu quickly and professionally. It’s easy to customize and develop.
 * [Download here](https://reactaz.com/downloads/pushy-horizontal-menu-effect-react-native-free-animation/)
 2. **Material Listing eCommerce – React Native Free Theme** - Easy to setup basic the listing screens. All components are easy to customize and reuse with example screen on the source
@@ -248,26 +249,27 @@ We make a list of free React Native apps for React Native developers seeing othe
 * [Android](https://play.google.com/store/apps/details?id=com.kfpun.finance)
 37. **[Movieapp](https://github.com/JuneDomingo/movieapp)** - Discover Movies and TV shows
 # Case Studies 
-
-1. **gikApp** - React Native Mobile App For Wordpress
+1. **[RunX - Running Tracker](https://github.com/devnowcafe/runx)** - Running location tracking app
+* [iOS](https://itunes.apple.com/app/id1422478253)
+2. **gikApp** - React Native Mobile App For Wordpress
 * [Download here](https://codecanyon.net/item/gikapp-react-native-full-application/19465924)
-2. **TechStore - React Native eCommerce Mobile App for Shopify Tech Store**
+3. **TechStore - React Native eCommerce Mobile App for Shopify Tech Store**
 * [Download here](https://codecanyon.net/item/techstore-react-native-ecommerce-mobile-app-for-shopify/20324216)
-3. **Fashion Store - Elegant React Native app template for Shopify Clothing Store**
+4. **Fashion Store - Elegant React Native app template for Shopify Clothing Store**
 * [Download here](https://codecanyon.net/item/fashion-store-elegant-react-native-app-template-for-shopify-clothing-store/22441071)
-4. **Animation Kit – React Native Full Theme** - Let’s get it done with hand-crafted Animation React Native themes.
+5. **Animation Kit – React Native Full Theme** - Let’s get it done with hand-crafted Animation React Native themes.
 * [Download here](https://reactaz.com/downloads/animation-kit-react-native-full-theme/)
-5. **AirBnb UI – React Native Full Theme** - Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.
+6. **AirBnb UI – React Native Full Theme** - Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.
 * [Download here](https://reactaz.com/downloads/airbnb-ui-react-native-full-theme/)
-6. **Medium UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Medium.
+7. **Medium UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Medium.
 * [Download here](https://reactaz.com/downloads/medium-ui-react-native-full-theme/)
-7. **Zomato UI – React Native Full Theme** - Let’s create an app like Zomato to enable your customers to order services, receive benefits, contact you directly and much more.
+8. **Zomato UI – React Native Full Theme** - Let’s create an app like Zomato to enable your customers to order services, receive benefits, contact you directly and much more.
 * [Download here](https://reactaz.com/downloads/zomato-ui-react-native-full-theme/)
-8. **CNN UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from CNN.
+9. **CNN UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from CNN.
 * [Download here](https://reactaz.com/downloads/cnn-ui-react-native-full-theme/)
-9. **BBC UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from BBC.
+10. **BBC UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from BBC.
 * [Download here](https://reactaz.com/downloads/bbc-ui-react-native-full-theme/)
-10. **Pinterest UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Pinterest.
+11. **Pinterest UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Pinterest.
 * [Download here](https://reactaz.com/downloads/pinterest-ui-react-native-full-theme/)
-11.	**Quora UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Quora.
+12.	**Quora UI – React Native Full Theme** - Let’s get it done with hand-crafted themes that inspired from Quora.
 * [Download here](https://reactaz.com/downloads/quora-ui-react-native-full-theme/)
