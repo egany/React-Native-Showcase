@@ -1,8 +1,8 @@
 
-# React-Native-Showcase
-React Native is an trending open-source project of Facebook. React Native aslos provides Native modules and components for android and iOS. React Native is a great choice because it is supported directly by Facebook Engineering and there are so many reasons to love React Native let’s try it.
+# React Native Showcases
+React Native is a trending open-source project of Facebook. React Native also provides Native modules and components for android and iOS. React Native is a great choice because it is supported directly by Facebook Engineers and there are so many reasons to love it. Give it a try.
 
-We make a list of free React Native apps for React Native developers seeing others building and structuring their apps.
+We make a list of free React Native apps for React Native developers to see how other developers build and structure their apps.
 
 ## Popular
 1. **Facebook** - Share updates and photos, engage with friends and Pages, and stay connected to communities important to you.
