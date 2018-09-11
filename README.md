@@ -8,8 +8,10 @@ Now you can view and submit your app.
 
 ![enter image description here](https://lh3.googleusercontent.com/3sPDuIUCGQtW_VhUH2OWQdCtCETeAXCoq9SG8pB04rvlX-fxK98Ymif8T7qFuQ0DdcsQBihJmGfR)
 
-![https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en](https://lh3.googleusercontent.com/1oiOZcPovh2RI34BUAzOYI56M8_aKMstjVaP0KlvjAFYPrXIUuvVTOyJVqVy4PMem1qhayQxOROi "Android")
-![https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8](https://lh3.googleusercontent.com/XwCWaYHbA5t9VUnDy-sSe7wivKX8K0id9b9iSGAWAXdkTD0FYt5EEtPzKzgmBiLPyDXNMGKK2525)
+[
+![](https://lh3.googleusercontent.com/1oiOZcPovh2RI34BUAzOYI56M8_aKMstjVaP0KlvjAFYPrXIUuvVTOyJVqVy4PMem1qhayQxOROi "Android")](https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en)
+[
+![](https://lh3.googleusercontent.com/XwCWaYHbA5t9VUnDy-sSe7wivKX8K0id9b9iSGAWAXdkTD0FYt5EEtPzKzgmBiLPyDXNMGKK2525 "iOS")](https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8)
 ## Popular
 | Name| Description | Download| Screenshot
 | ------------- | ------------- |------------- |------------- |
