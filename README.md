@@ -76,7 +76,7 @@ Now you can view and submit your app
 # Case Studies
 | Name| Description | Download|
 | ------------- | ------------- |------------- |
-|1. **React Native Showcase** | React Native Showcase is a really big list of interesting React Native projects, tutorials, articles and more.| [iOS](https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8)| [Android](https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en)
+|1. **React Native Showcase** | React Native Showcase is a really big list of interesting React Native projects, tutorials, articles and more.| [iOS](https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8)<br> [Android](https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en)
 |2. **Qribto** | The React Native App For Crypto Currency News Site.| [Download here](https://codecanyon.net/item/qribto-the-react-native-app-for-crypto-currency-news-site/22462364?s_rank=1)
 |3. **gikApp** | React Native Mobile App For Wordpress.| [Download here](https://codecanyon.net/item/gikapp-react-native-full-application/19465924)
 |4. **TechStore** | React Native eCommerce Mobile App for Shopify Tech Store.|[Download here](https://codecanyon.net/item/techstore-react-native-ecommerce-mobile-app-for-shopify/20324216)
