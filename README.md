@@ -1,14 +1,15 @@
+#  React  Native Showcases
 
+React Native is a trending open-source project of Facebook. React Native also provides Native modules and components for android and iOS. React Native is a great choice because it is supported directly by Facebook Engineers and there are so many reasons to love it. Give it a try.
 
-# React-Native-Showcase
-React Native is an trending open-source project of Facebook. React Native aslos provides Native modules and components for android and iOS. React Native is a great choice because it is supported directly by Facebook Engineering and there are so many reasons to love React Native let’s try it.
+We make a list of free React Native apps for React Native developers to see how other developers build and structure their apps.
 
-We make a list of free React Native apps for React Native developers seeing others building and structuring their apps.
+Now you can view and submit your app.
 
-Now you can view and submit your app 
 ![enter image description here](https://lh3.googleusercontent.com/3sPDuIUCGQtW_VhUH2OWQdCtCETeAXCoq9SG8pB04rvlX-fxK98Ymif8T7qFuQ0DdcsQBihJmGfR)
 
-![enter image description here](https://lh3.googleusercontent.com/1oiOZcPovh2RI34BUAzOYI56M8_aKMstjVaP0KlvjAFYPrXIUuvVTOyJVqVy4PMem1qhayQxOROi "Android")![](https://lh3.googleusercontent.com/v1SozzJR3wKu8taMwOcB-yd9hZ5l-5LFqD8yZ_x87NJhejzn2jEDMs02mA6jMPZiSc-1NZ_aPgCU "iOS")
+![https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en](https://lh3.googleusercontent.com/1oiOZcPovh2RI34BUAzOYI56M8_aKMstjVaP0KlvjAFYPrXIUuvVTOyJVqVy4PMem1qhayQxOROi "Android")
+![https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8](https://lh3.googleusercontent.com/XwCWaYHbA5t9VUnDy-sSe7wivKX8K0id9b9iSGAWAXdkTD0FYt5EEtPzKzgmBiLPyDXNMGKK2525)
 ## Popular
 | Name| Description | Download| Screenshot
 | ------------- | ------------- |------------- |------------- |
