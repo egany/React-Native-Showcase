@@ -35,6 +35,28 @@ Now you can view and submit your app.
 |18.  **Wix.com** | Now you can easily manage your business on the go with the Wix App.|[iOS](https://itunes.apple.com/us/app/wix-com/id1099748482?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.wix.android)<br> [Learn more](https://www.wix.com/)|![enter image description here](https://lh3.googleusercontent.com/m_elTkG0MDdqKv4zSliK6UAxeUrbBXLSZeOMPwU4cxcinturtlKquLSoLe0GQnLoZSD40fYG6FtE)
 |19. **Walmart**| Make shopping easier.|[iOS](https://itunes.apple.com/us/app/walmart-app-shopping-savings/id338137227?mt=8)<br>[Android](https://goo.gl/hQHnvr)<br> [Learn more](https://medium.com/walmartlabs)|![enter image description here](https://lh3.googleusercontent.com/CkNp3Ulrw0BSV18OfJbG4PqbKa0z4y-YutBRs7enD3x2ZybJ5pbecSkuta9tnoPZ-oVDKVgAJqjN)
 |20. **Chop** | Enjoy the food you love, at stellar speeds. With quick pickup and better service, Chop lets you get great food, fast.| [iOS](https://goo.gl/FbFuAX)|![enter image description here](https://lh3.googleusercontent.com/LzvWs3xbVablKaPmOq8mM-Ya8jKj-Jn6IsvWH8Jw5aDXguSPSUJMM731rEVtRRE-eVrEVYF_SBYJ)
+
+# Case Studies
+| Name| Description | Download|
+| ------------- | ------------- |------------- |
+|1. **React Native Showcase** | React Native Showcase is a really big list of interesting React Native projects, tutorials, articles and more.| [iOS](https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8)<br> [Android](https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en)
+|2. **Qribto** | The React Native App For Crypto Currency News Site.| [Download here](https://codecanyon.net/item/qribto-the-react-native-app-for-crypto-currency-news-site/22462364?s_rank=1)
+|3. **gikApp** | React Native Mobile App For Wordpress.| [Download here](https://codecanyon.net/item/gikapp-react-native-full-application/19465924)
+|4. **TechStore** | React Native eCommerce Mobile App for Shopify Tech Store.|[Download here](https://codecanyon.net/item/techstore-react-native-ecommerce-mobile-app-for-shopify/20324216)
+|5. **Fashion Store** | Elegant React Native app template for Shopify Clothing Store| [Download here](https://codecanyon.net/item/fashion-store-elegant-react-native-app-template-for-shopify-clothing-store/22441071)
+|6. **Animation Kit – React Native Full Theme** | Let’s get it done with hand-crafted Animation React Native themes.|[Download here](https://reactaz.com/downloads/animation-kit-react-native-full-theme/)
+|7. **AirBnb UI – React Native Full Theme** | Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.|[Download here](https://reactaz.com/downloads/airbnb-ui-react-native-full-theme/)
+|8. **Medium UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from Medium.|[Download here](https://reactaz.com/downloads/medium-ui-react-native-full-theme/)
+|9. **Zomato UI – React Native Full Theme** | Let’s create an app like Zomato to enable your customers to order services, receive benefits, contact you directly and much more.|[Download here](https://reactaz.com/downloads/zomato-ui-react-native-full-theme/)
+|10. **CNN UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from CNN.| [Download here](https://reactaz.com/downloads/cnn-ui-react-native-full-theme/)
+|11. **BBC UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from BBC.|[Download here](https://reactaz.com/downloads/bbc-ui-react-native-full-theme/)
+|12. **Pinterest UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from Pinterest.|[Download here](https://reactaz.com/downloads/pinterest-ui-react-native-full-theme/)
+|13.	**Quora UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from Quora.|[Download here](https://reactaz.com/downloads/quora-ui-react-native-full-theme/)
+|14. **Vinamilk - Giấc mơ sữa Việt**|An official E-Commerce app for the primary policy and the unique of Vinamilk. Developed by [mBiz](https://mbiz.vn/) & Haravan.| [iOS](https://itunes.apple.com/us/app/gi%E1%BA%A5c-m%C6%A1-s%E1%BB%AFa-vi%E1%BB%87t/id1211098358?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.giacmosuaviet)
+|15. **Beemart**| An application for cake lover. Developed by [mBiz](https://mbiz.vn/).|[iOS](https://itunes.apple.com/us/app/beemart-%C4%91%E1%BB%93-l%C3%A0m-b%C3%A1nh/id1332592146?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.beemart)
+|16. **KYNA**|A Learning online application like Udemy. Developed by [EGANY](https://egany.com/).|[iOS](https://itunes.apple.com/us/app/kyna/id1384374935?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.kyna.app)
+|17.  **Apperture: Shared Photo Albums**|Apperture (formerly Aperture) is a location-based photo sharing app that allows you to discover nearby events and find nearby friends then instantly share your pictures with them in a single-tap across all platforms!|[iOS](https://itunes.apple.com/app/id1426192435)<br>[Android](https://play.google.com/store/apps/details?id=re.appertu.mobile)
+
 ## Freebies
 | Name| Description | Download|
 | ------------- | ------------- |------------- |
@@ -76,23 +98,3 @@ Now you can view and submit your app.
 |36. **[HackerNews](https://github.com/iSimar/HackerNews-React-Native)** | This app is a Hacker News reader for iOS and it uses the HN's official API.
 |37. **[FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)** | iOS's Stocks App clone written in React Native for demo purpose. Data is pulled from Yahoo Finance.|[Android](https://play.google.com/store/apps/details?id=com.kfpun.finance)
 |38. **[Movieapp](https://github.com/JuneDomingo/movieapp)** | Discover Movies and TV shows
-# Case Studies
-| Name| Description | Download|
-| ------------- | ------------- |------------- |
-|1. **React Native Showcase** | React Native Showcase is a really big list of interesting React Native projects, tutorials, articles and more.| [iOS](https://itunes.apple.com/us/app/react-native-showcase/id1383205805?mt=8)<br> [Android](https://play.google.com/store/apps/details?id=com.reactaz.rnshowcase&hl=en)
-|2. **Qribto** | The React Native App For Crypto Currency News Site.| [Download here](https://codecanyon.net/item/qribto-the-react-native-app-for-crypto-currency-news-site/22462364?s_rank=1)
-|3. **gikApp** | React Native Mobile App For Wordpress.| [Download here](https://codecanyon.net/item/gikapp-react-native-full-application/19465924)
-|4. **TechStore** | React Native eCommerce Mobile App for Shopify Tech Store.|[Download here](https://codecanyon.net/item/techstore-react-native-ecommerce-mobile-app-for-shopify/20324216)
-|5. **Fashion Store** | Elegant React Native app template for Shopify Clothing Store| [Download here](https://codecanyon.net/item/fashion-store-elegant-react-native-app-template-for-shopify-clothing-store/22441071)
-|6. **Animation Kit – React Native Full Theme** | Let’s get it done with hand-crafted Animation React Native themes.|[Download here](https://reactaz.com/downloads/animation-kit-react-native-full-theme/)
-|7. **AirBnb UI – React Native Full Theme** | Let’s create an app like AirBnb to enable your customers to order services, receive benefits, book apartments, contact you directly and much more. Keep customers loyal and increase sales.|[Download here](https://reactaz.com/downloads/airbnb-ui-react-native-full-theme/)
-|8. **Medium UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from Medium.|[Download here](https://reactaz.com/downloads/medium-ui-react-native-full-theme/)
-|9. **Zomato UI – React Native Full Theme** | Let’s create an app like Zomato to enable your customers to order services, receive benefits, contact you directly and much more.|[Download here](https://reactaz.com/downloads/zomato-ui-react-native-full-theme/)
-|10. **CNN UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from CNN.| [Download here](https://reactaz.com/downloads/cnn-ui-react-native-full-theme/)
-|11. **BBC UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from BBC.|[Download here](https://reactaz.com/downloads/bbc-ui-react-native-full-theme/)
-|12. **Pinterest UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from Pinterest.|[Download here](https://reactaz.com/downloads/pinterest-ui-react-native-full-theme/)
-|13.	**Quora UI – React Native Full Theme** | Let’s get it done with hand-crafted themes that inspired from Quora.|[Download here](https://reactaz.com/downloads/quora-ui-react-native-full-theme/)
-|14. **Vinamilk - Giấc mơ sữa Việt**|An official E-Commerce app for the primary policy and the unique of Vinamilk. Developed by [mBiz](https://mbiz.vn/) & Haravan.| [iOS](https://itunes.apple.com/us/app/gi%E1%BA%A5c-m%C6%A1-s%E1%BB%AFa-vi%E1%BB%87t/id1211098358?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.giacmosuaviet)
-|15. **Beemart**| An application for cake lover. Developed by [mBiz](https://mbiz.vn/).|[iOS](https://itunes.apple.com/us/app/beemart-%C4%91%E1%BB%93-l%C3%A0m-b%C3%A1nh/id1332592146?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.beemart)
-|16. **KYNA**|A Learning online application like Udemy. Developed by [EGANY](https://egany.com/).|[iOS](https://itunes.apple.com/us/app/kyna/id1384374935?mt=8)<br>[Android](https://play.google.com/store/apps/details?id=com.kyna.app)
-|17.  **Apperture: Shared Photo Albums**|Apperture (formerly Aperture) is a location-based photo sharing app that allows you to discover nearby events and find nearby friends then instantly share your pictures with them in a single-tap across all platforms!|[iOS](https://itunes.apple.com/app/id1426192435)<br>[Android](https://play.google.com/store/apps/details?id=re.appertu.mobile)
